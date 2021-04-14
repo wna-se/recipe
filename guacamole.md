@@ -2,6 +2,7 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
+- add chili to tast
 
 Instructions:
 - cut and mash avocados
